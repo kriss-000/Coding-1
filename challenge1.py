@@ -1,0 +1,1 @@
+message = " A normal day in TCAT consists of several activities, usually pretaining to the class one is taking. I took automotive m"
