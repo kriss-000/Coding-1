@@ -46,9 +46,9 @@ print ("\nHello everyone!")
 print ("Hello \neveryone1")
 print ("\n\n\nHello everyone!")
 name = 'kriss'
-print ('-'name.lstrip())
-print ('-'name.rstrip())
-print ('-'name.rstrip())
+print('-'name.lstrip())
+print('-'name.rstrip())
+print('-'name.rstrip())
 #Typing this will output the following mathematical equation into the terminal
 print (3+3)
 print (3-2)
