@@ -1,4 +1,4 @@
-list = ["R", "G", "B"]
+ylist = ["R", "G", "B"]
 sum = 0
 for x in list:
     if x == "R": 
