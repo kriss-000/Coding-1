@@ -1,4 +1,4 @@
-ylist = ["R", "G", "B"]
+list = ["R", "G", "B", "B", "G", "R", "R", "G", "B", "B"]
 sum = 0
 for x in list:
     if x == "R": 
@@ -8,4 +8,4 @@ for x in list:
     elif x == "B": 
         sum = sum + 20
 print(sum)
-# The sum of the aliens is 35
+# The sum of the aliens is 55
